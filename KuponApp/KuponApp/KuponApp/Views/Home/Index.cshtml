@@ -1,0 +1,117 @@
+﻿@model KuponApp.Models.User
+
+@{
+    ViewData["Title"] = "Kupon Kazanın!";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Hoş Geldiniz!</h1>
+    <p class="lead">Bilgilerinizi girin ve özel indirim kuponunuzu kazanın!</p>
+</div>
+
+<div class="row justify-content-center">
+    <div class="col-md-6">
+        <div class="card">
+            <div class="card-header">
+                <h4>Bilgilerinizi Girin</h4>
+            </div>
+            <div class="card-body">
+                <form asp-controller="Home" asp-action="CreateCoupon" method="post">
+                    <div class="mb-3">
+                        <label asp-for="FirstName" class="form-label">Ad</label>
+                        <input asp-for="FirstName" class="form-control" maxlength="30" required />
+                        <span asp-validation-for="FirstName" class="text-danger"></span>
+                    </div>
+                    
+                    <div class="mb-3">
+                        <label asp-for="LastName" class="form-label">Soyad</label>
+                        <input asp-for="LastName" class="form-control" maxlength="30" required />
+                        <span asp-validation-for="LastName" class="text-danger"></span>
+                    </div>
+                    
+                    <div class="mb-3">
+                        <label asp-for="Email" class="form-label">E-posta</label>
+                        <input asp-for="Email" type="email" class="form-control" maxlength="100" required />
+                        <span asp-validation-for="Email" class="text-danger"></span>
+                    </div>
+                    
+                    <div class="mb-3">
+                        <label asp-for="Phone" class="form-label">Telefon</label>
+                        <input asp-for="Phone" id="phoneInput" class="form-control" placeholder="(___) ___ __ __" maxlength="16" required />
+                        <span asp-validation-for="Phone" class="text-danger"></span>
+                    </div>
+                    
+                    <div class="d-grid">
+                        <button type="submit" class="btn btn-primary btn-lg">Kuponumu Oluştur!</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- TELEFON MASKELEMESİ SCRIPT -->
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    const phoneInput = document.getElementById('phoneInput');
+    
+    phoneInput.addEventListener('input', function(e) {
+        // Sadece rakamları al
+        let value = e.target.value.replace(/\D/g, '');
+        let formattedValue = '';
+        
+        // Türkiye telefon formatı: (555) 123 45 67
+        if (value.length > 0) {
+            formattedValue = '(' + value.substring(0, 3);
+        }
+        if (value.length >= 4) {
+            formattedValue += ') ' + value.substring(3, 6);
+        }
+        if (value.length >= 7) {
+            formattedValue += ' ' + value.substring(6, 8);
+        }
+        if (value.length >= 9) {
+            formattedValue += ' ' + value.substring(8, 10);
+        }
+        
+        e.target.value = formattedValue;
+    });
+    
+    // Sadece rakam girişine izin ver
+    phoneInput.addEventListener('keypress', function(e) {
+        const char = String.fromCharCode(e.which);
+        if (!/[0-9]/.test(char)) {
+            e.preventDefault();
+        }
+    });
+});
+</script>
+
+<!-- KARAKTER SAYACI (OPSİYONEL) -->
+<script>
+// Karakter sayacı eklemek istersen:
+document.addEventListener('DOMContentLoaded', function() {
+    const inputs = [
+        { id: 'FirstName', max: 30 },
+        { id: 'LastName', max: 30 },
+        { id: 'Email', max: 100 }
+    ];
+    
+    inputs.forEach(function(input) {
+        const element = document.getElementById(input.id);
+        if (element) {
+            element.addEventListener('input', function(e) {
+                const remaining = input.max - e.target.value.length;
+                const formText = e.target.parentNode.querySelector('.form-text');
+                if (remaining < 10) {
+                    formText.textContent = `${remaining} karakter kaldı`;
+                    formText.className = 'form-text text-warning';
+                } else {
+                    formText.textContent = `Maksimum ${input.max} karakter`;
+                    formText.className = 'form-text';
+                }
+            });
+        }
+    });
+});
+</script>

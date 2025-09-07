@@ -1,0 +1,440 @@
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/appsettings.Development.json
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/appsettings.json
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/KuponApp.staticwebassets.runtime.json
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/KuponApp.staticwebassets.endpoints.json
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/KuponApp
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/KuponApp.deps.json
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/KuponApp.runtimeconfig.json
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/KuponApp.dll
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/KuponApp.pdb
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/Azure.Core.dll
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/Azure.Identity.dll
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/Microsoft.Data.SqlClient.dll
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.dll
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/Microsoft.Identity.Client.dll
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/Microsoft.IdentityModel.Logging.dll
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.dll
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/Microsoft.IdentityModel.Tokens.dll
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/Microsoft.SqlServer.Server.dll
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/Microsoft.Win32.SystemEvents.dll
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/System.ClientModel.dll
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/System.Configuration.ConfigurationManager.dll
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/System.Drawing.Common.dll
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/System.Memory.Data.dll
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/System.Runtime.Caching.dll
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/System.Security.Cryptography.ProtectedData.dll
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/System.Security.Permissions.dll
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/System.Windows.Extensions.dll
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/KuponApp.csproj.AssemblyReference.cache
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/KuponApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/KuponApp.AssemblyInfoInputs.cache
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/KuponApp.AssemblyInfo.cs
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/KuponApp.csproj.CoreCompileInputs.cache
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/KuponApp.MvcApplicationPartsAssemblyInfo.cache
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/KuponApp.RazorAssemblyInfo.cache
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/KuponApp.RazorAssemblyInfo.cs
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/scopedcss/bundle/KuponApp.styles.css
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/scopedcss/projectbundle/KuponApp.bundle.scp.css
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/compressed/rtte9lwm0y-lugek5hnai.gz
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/compressed/43nnml1r37-61n19gt1b8.gz
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/compressed/323bph2cfz-fr7q2aak1r.gz
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/compressed/m6eiv7s04z-bqjiyaj88i.gz
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/compressed/e52ipoj89y-c2jlpeoesf.gz
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/compressed/bcbje1o2u6-erw9l3u2r3.gz
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/compressed/mvt3plmivr-aexeepp0ev.gz
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/compressed/c0v1v83ocf-d7shbmvgxk.gz
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/compressed/bhslpkpbqv-ausgxo2sd3.gz
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/compressed/x6pvvkvc6d-k8d9w2qqmf.gz
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/compressed/33yylpzhva-cosvhxvwiu.gz
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/compressed/bh7p9mvk1z-ub07r2b239.gz
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/compressed/0bmk9p82ru-fvhpjtyr6v.gz
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/compressed/jtb4legwoe-b7pk76d08c.gz
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/compressed/uw1st15lus-fsbi9cje9m.gz
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/compressed/78omusq1kr-rzd6atqjts.gz
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/compressed/15pbvyi53v-ee0r1s7dh0.gz
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/compressed/4rpgow8h44-dxx9fxp4il.gz
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/compressed/eufpih3pl7-jd9uben2k1.gz
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/compressed/kv1b6tzo77-khv3u5hwcm.gz
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/compressed/nh2nqtpjfq-r4e9w2rdcm.gz
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/compressed/h1m5zu1mdh-lcd1t2u6c8.gz
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/compressed/8ti3ka9ho1-c2oey78nd0.gz
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/compressed/wznn353g9x-tdbxkamptv.gz
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/compressed/vtmjd66xee-j5mq2jizvt.gz
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/compressed/z54xc8a8xw-06098lyss8.gz
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/compressed/667w38ovt9-nvvlpmu67g.gz
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/compressed/xik4rukchs-s35ty4nyc5.gz
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/compressed/rtrxc41jub-pj5nd1wqec.gz
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/compressed/of4c8rwlyb-46ein0sx1k.gz
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/compressed/3dw2zqlq07-v0zj4ognzu.gz
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/compressed/l23gkdz4cz-37tfw0ft22.gz
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/compressed/brjxkrko05-hrwsygsryq.gz
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/compressed/crtmhdqfwu-pk9g2wxc8p.gz
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/compressed/seowfo66py-ft3s53vfgj.gz
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/compressed/2w1p7auvja-6cfz1n2cew.gz
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/compressed/ar5989fo8e-6pdc2jztkx.gz
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/compressed/9sto0uh8p2-493y06b0oq.gz
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/compressed/dsf4l3i17p-iovd86k7lj.gz
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/compressed/0qwyydk8jd-vr1egmr9el.gz
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/compressed/iswqw4lx4l-kbrnm935zg.gz
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/compressed/jgdp03qr33-jj8uyg4cgr.gz
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/compressed/8h4ql9pr0q-y7v9cxd14o.gz
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/compressed/cjvr00vb6b-notf2xhcfb.gz
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/compressed/4m6ij7fmk5-h1s4sie4z3.gz
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/compressed/5r4silklnq-63fj8s7r0e.gz
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/compressed/9ue7vea8xs-0j3bgjxly4.gz
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/compressed/obdq6p3oq3-47otxtyo56.gz
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/compressed/45eycvrzmg-4v8eqarkd7.gz
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/compressed/picjlhdc7g-l3n5xuwxn8.gz
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/compressed/t1t1kpuxag-ilo7uva0vt.gz
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/compressed/68hkrsctbr-qlccset4i1.gz
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/compressed/wx2ctxqv7b-lzl9nlhx6b.gz
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/compressed/ove9bqvnxw-ag7o75518u.gz
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/compressed/6b2dh0c8gy-xzw0cte36n.gz
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/compressed/yj8qb7xv6f-0i3buxo5is.gz
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/compressed/omixwxmqvg-o1o13a6vjx.gz
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/compressed/6l4bkxcm7t-ttgo8qnofa.gz
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/compressed/xmgxvh816o-2z0ns9nrw6.gz
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/compressed/prgrb9syqb-muycvpuwrr.gz
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/compressed/73w2o4dqdq-87fc7y1x7t.gz
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/compressed/weqnemazo9-jfsiqqwiad.gz
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/compressed/i6zvouebzu-fzsti7xysh.gz
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/compressed/y7z5p8dl0q-fzsti7xysh.gz
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/staticwebassets.build.json
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/staticwebassets.development.json
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/staticwebassets/msbuild.KuponApp.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/staticwebassets/msbuild.KuponApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/staticwebassets/msbuild.build.KuponApp.props
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.KuponApp.props
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.KuponApp.props
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/staticwebassets.pack.json
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/KuponApp.csproj.Up2Date
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/KuponApp.dll
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/refint/KuponApp.dll
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/KuponApp.pdb
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/KuponApp.genruntimeconfig.cache
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/ref/KuponApp.dll
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/Humanizer.dll
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/Microsoft.Build.Locator.dll
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/Microsoft.CodeAnalysis.dll
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/Microsoft.Extensions.DependencyModel.dll
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/Mono.TextTemplating.dll
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/System.CodeDom.dll
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/System.Composition.AttributedModel.dll
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/System.Composition.Convention.dll
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/System.Composition.Hosting.dll
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/System.Composition.Runtime.dll
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/System.Composition.TypedParts.dll
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/eren/Desktop/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/appsettings.Development.json
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/appsettings.json
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/KuponApp.staticwebassets.endpoints.json
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/KuponApp.staticwebassets.runtime.json
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/KuponApp
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/KuponApp.deps.json
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/KuponApp.runtimeconfig.json
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/KuponApp.dll
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/KuponApp.pdb
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/Azure.Core.dll
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/Azure.Identity.dll
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/Humanizer.dll
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/Microsoft.Build.Locator.dll
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/Microsoft.CodeAnalysis.dll
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/Microsoft.Data.SqlClient.dll
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.dll
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/Microsoft.Extensions.DependencyModel.dll
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/Microsoft.Identity.Client.dll
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/Microsoft.IdentityModel.Logging.dll
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.dll
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/Microsoft.IdentityModel.Tokens.dll
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/Microsoft.SqlServer.Server.dll
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/Microsoft.Win32.SystemEvents.dll
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/Mono.TextTemplating.dll
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/System.ClientModel.dll
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/System.CodeDom.dll
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/System.Composition.AttributedModel.dll
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/System.Composition.Convention.dll
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/System.Composition.Hosting.dll
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/System.Composition.Runtime.dll
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/System.Composition.TypedParts.dll
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/System.Configuration.ConfigurationManager.dll
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/System.Drawing.Common.dll
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/System.Memory.Data.dll
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/System.Runtime.Caching.dll
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/System.Security.Cryptography.ProtectedData.dll
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/System.Security.Permissions.dll
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/System.Windows.Extensions.dll
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/KuponApp.csproj.AssemblyReference.cache
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/KuponApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/KuponApp.AssemblyInfoInputs.cache
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/KuponApp.AssemblyInfo.cs
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/KuponApp.csproj.CoreCompileInputs.cache
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/KuponApp.MvcApplicationPartsAssemblyInfo.cache
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/KuponApp.RazorAssemblyInfo.cache
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/KuponApp.RazorAssemblyInfo.cs
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/scopedcss/bundle/KuponApp.styles.css
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/scopedcss/projectbundle/KuponApp.bundle.scp.css
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/compressed/rtte9lwm0y-lugek5hnai.gz
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/compressed/43nnml1r37-61n19gt1b8.gz
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/compressed/323bph2cfz-fr7q2aak1r.gz
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/compressed/m6eiv7s04z-bqjiyaj88i.gz
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/compressed/e52ipoj89y-c2jlpeoesf.gz
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/compressed/bcbje1o2u6-erw9l3u2r3.gz
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/compressed/mvt3plmivr-aexeepp0ev.gz
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/compressed/c0v1v83ocf-d7shbmvgxk.gz
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/compressed/bhslpkpbqv-ausgxo2sd3.gz
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/compressed/x6pvvkvc6d-k8d9w2qqmf.gz
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/compressed/33yylpzhva-cosvhxvwiu.gz
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/compressed/bh7p9mvk1z-ub07r2b239.gz
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/compressed/0bmk9p82ru-fvhpjtyr6v.gz
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/compressed/jtb4legwoe-b7pk76d08c.gz
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/compressed/uw1st15lus-fsbi9cje9m.gz
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/compressed/78omusq1kr-rzd6atqjts.gz
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/compressed/15pbvyi53v-ee0r1s7dh0.gz
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/compressed/4rpgow8h44-dxx9fxp4il.gz
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/compressed/eufpih3pl7-jd9uben2k1.gz
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/compressed/kv1b6tzo77-khv3u5hwcm.gz
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/compressed/nh2nqtpjfq-r4e9w2rdcm.gz
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/compressed/h1m5zu1mdh-lcd1t2u6c8.gz
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/compressed/8ti3ka9ho1-c2oey78nd0.gz
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/compressed/wznn353g9x-tdbxkamptv.gz
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/compressed/vtmjd66xee-j5mq2jizvt.gz
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/compressed/z54xc8a8xw-06098lyss8.gz
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/compressed/667w38ovt9-nvvlpmu67g.gz
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/compressed/xik4rukchs-s35ty4nyc5.gz
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/compressed/rtrxc41jub-pj5nd1wqec.gz
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/compressed/of4c8rwlyb-46ein0sx1k.gz
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/compressed/3dw2zqlq07-v0zj4ognzu.gz
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/compressed/l23gkdz4cz-37tfw0ft22.gz
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/compressed/brjxkrko05-hrwsygsryq.gz
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/compressed/crtmhdqfwu-pk9g2wxc8p.gz
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/compressed/seowfo66py-ft3s53vfgj.gz
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/compressed/2w1p7auvja-6cfz1n2cew.gz
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/compressed/ar5989fo8e-6pdc2jztkx.gz
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/compressed/9sto0uh8p2-493y06b0oq.gz
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/compressed/dsf4l3i17p-iovd86k7lj.gz
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/compressed/0qwyydk8jd-vr1egmr9el.gz
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/compressed/iswqw4lx4l-kbrnm935zg.gz
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/compressed/jgdp03qr33-jj8uyg4cgr.gz
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/compressed/8h4ql9pr0q-y7v9cxd14o.gz
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/compressed/cjvr00vb6b-notf2xhcfb.gz
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/compressed/4m6ij7fmk5-h1s4sie4z3.gz
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/compressed/5r4silklnq-63fj8s7r0e.gz
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/compressed/9ue7vea8xs-0j3bgjxly4.gz
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/compressed/obdq6p3oq3-47otxtyo56.gz
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/compressed/45eycvrzmg-4v8eqarkd7.gz
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/compressed/picjlhdc7g-l3n5xuwxn8.gz
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/compressed/t1t1kpuxag-ilo7uva0vt.gz
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/compressed/68hkrsctbr-qlccset4i1.gz
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/compressed/wx2ctxqv7b-lzl9nlhx6b.gz
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/compressed/ove9bqvnxw-ag7o75518u.gz
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/compressed/6b2dh0c8gy-xzw0cte36n.gz
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/compressed/yj8qb7xv6f-0i3buxo5is.gz
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/compressed/omixwxmqvg-o1o13a6vjx.gz
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/compressed/6l4bkxcm7t-ttgo8qnofa.gz
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/compressed/xmgxvh816o-2z0ns9nrw6.gz
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/compressed/prgrb9syqb-muycvpuwrr.gz
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/compressed/73w2o4dqdq-87fc7y1x7t.gz
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/compressed/weqnemazo9-jfsiqqwiad.gz
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/compressed/i6zvouebzu-fzsti7xysh.gz
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/compressed/y7z5p8dl0q-fzsti7xysh.gz
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/staticwebassets.build.json
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/staticwebassets.development.json
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/staticwebassets/msbuild.KuponApp.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/staticwebassets/msbuild.KuponApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/staticwebassets/msbuild.build.KuponApp.props
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.KuponApp.props
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.KuponApp.props
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/staticwebassets.pack.json
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/KuponApp.csproj.Up2Date
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/KuponApp.dll
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/refint/KuponApp.dll
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/KuponApp.pdb
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/KuponApp.genruntimeconfig.cache
+/Users/eren/Desktop/Web Projects/KuponApp/KuponApp/KuponApp/obj/Debug/net9.0/ref/KuponApp.dll
