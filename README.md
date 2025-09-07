@@ -1,4 +1,4 @@
-# Web Projeleri
+# Web Projeleri - Bu iki proje, yapay zeka desteği ile oluşturulmuştur.
 
 Bu repo içerisinde iki farklı web projesi bulunmaktadır:
 
